@@ -1,5 +1,5 @@
 Strive论坛
-【版本】6【版本】 
+【版本】5【版本】 
 
 【内容】
 
@@ -8,4 +8,4 @@ Strive论坛
 【内容】 
 
 
-【链接】http://github.com/zghne/strivebbs/master/6.apk【链接】
+【链接】https://github.com/zghne/strivebbs/raw/master/5.apk【链接】
