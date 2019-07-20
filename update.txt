@@ -1,10 +1,10 @@
-【版本】7【版本】 
+【版本】8【版本】 
 
 【内容】
 
-更新功能修复;更新界面美化
+界面美化
 
 【内容】 
 
 
-【链接】https://github.com/zghne/strivebbs/raw/master/7.apk【链接】
+【链接】https://github.com/zghne/strivebbs/raw/master/Strive论坛_8.apk【链接】
